@@ -1,0 +1,12 @@
+files:
+	surt_saucer.png
+	surt_human.png
+
+Are from 'surt' at http://opengameart.org/content/shmup-ships
+
+Licenses were:
+
+	CC-BY-sa 3.0
+	gpl 3.0
+	gpl 2.0
+
